@@ -1,0 +1,2 @@
+# SatisfactoryCalculator
+Calculate your production.
